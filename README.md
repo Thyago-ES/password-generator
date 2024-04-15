@@ -6,6 +6,8 @@
     Esse projeto consiste em um gerador de senha para uso na criação de contas. Com foco em criar senhas super seguras.
 </p>
 
+<img src="https://github.com/Thyago-ES/password-generator/assets/143831711/002cba20-74e3-45fb-93f3-b526612a4e46" alt="Gerador de senha">
+
 <br><br>
 
 <h2 align="center">Detalhes</h2>
